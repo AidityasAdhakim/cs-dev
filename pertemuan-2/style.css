@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+}
+
+h1 {
+	font-family: arial;
+	color: red;
+}
+
+.login {
+	margin-left: 20px;
+	width: 120px;
+	background-color: blue;
+}
+
+#login-button{
+	text-decoration: none;
+	color: white;
+}
+
+#login-button:hover{
+	text-decoration: none;
+	color: red;
+	font-size: 50px;
+}
+
+.coin {
+	font-family: arial;
+	text-decoration: none;
+	color: gray;
+	font-size: 20px;
+}
+
+li:nth-child(2) {
+	color: red;
+	text-decoration: none;
+	font-family: arial;
+}
+
+#bitcoin {
+	color: red;
+}
+
+/*ul li a{
+	font-family: arial;
+	text-decoration: none;
+}*/
+
+/*#ethereum {
+	font-family: arial;
+	text-decoration: none;
+}*/
+
